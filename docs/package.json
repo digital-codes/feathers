@@ -35,7 +35,7 @@
     "unplugin-auto-import": "^0.12.1",
     "unplugin-vue-components": "^0.22.12",
     "vite-plugin-pwa": "^0.14.0",
-    "vitepress": "^1.0.0-alpha.32",
+    "vitepress": "^1.6.3",
     "vitepress-plugin-search": "^1.0.4-alpha.17",
     "vitepress-plugin-google-analytics": "^1.0.2",
     "workbox-window": "^6.5.4"
