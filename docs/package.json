@@ -12,7 +12,7 @@
   "dependencies": {
     "@vueuse/core": "^9.8.2",
     "date-fns": "^2.29.3",
-    "element-plus": "^2.2.27",
+    "element-plus": "^2.11.0",
     "query-string": "^8.1.0",
     "vue": "^3.2.45"
   },
